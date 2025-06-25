@@ -96,9 +96,8 @@ This is a **community project**, and its success depends entirely on amazing peo
 ### 📋 **Contribution Guidelines:**
 
 1. **Quality First**: We're curating the best of the best, so make sure your contributions are well-tested and documented
-2. **Follow the Template**: Check out our `CONTRIBUTING.md` for submission guidelines
-3. **Be Descriptive**: Help others understand what your workflow does and why it's awesome
-4. **Test Thoroughly**: Make sure your workflows work as expected before submitting
+2. **Be Descriptive**: Help others understand what your workflow does and why it's awesome
+3. **Test Thoroughly**: Make sure your workflows work as expected before submitting
 
 ### 💪 **Every Contribution Counts:**
 
