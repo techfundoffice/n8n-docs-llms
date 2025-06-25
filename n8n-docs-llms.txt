@@ -1035,6 +1035,8 @@ This workflow demonstrates the use of agents and chains in an n8n workflow lever
 - **Start the workflow by clicking "Execute workflow"** → **Get sitemap**
 - **Extract main content** → **Aggregate**
 
+Built with ❤️ by Synaptiv AI
+
 ----------------------------------------
 
 # Workflow: Data Transformation
@@ -2009,6 +2011,10 @@ Only one evaluation is allowed per workflow, but you can use [sub-workflows](htt
 ## Dealing with Inconsistent Results
 
 To smooth variations in metrics across evaluation runs, duplicate rows in your dataset so that each row appears multiple times, effectively allowing each input to run multiple times.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
@@ -3352,6 +3358,10 @@ Consider setting up a test workflow or a test n8n instance if you're exploring t
 
 ----------------------------------------
 
+Built with ❤️ by Synaptiv AI
+
+----------------------------------------
+
 # API Authentication
 
 n8n uses API keys to authenticate API calls.
@@ -3992,6 +4002,10 @@ Concatenates two arrays and then removes duplicates.
 Removes duplicates from an array.
 - **Parameters:**
   - `key` (Optional, String): A key, or comma-separated list of keys, to check for duplicates.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
@@ -4982,6 +4996,10 @@ for item in previousNodeData:
     print(itemDict)
 ```
 Refer to the Pyodide documentation on [JsProxy](https://pyodide.org/en/stable/usage/api/python-api/ffi.html#pyodide.ffi.JsProxy) for more information.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
@@ -6021,6 +6039,10 @@ return [{ json: { totalBooked, bookedSum } }];
 If the data structure is incorrect, an error will be shown: `Error: Always an Array of items has to be returned!`
 
 Execute the step to view the output of the Code node.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
@@ -7352,6 +7374,10 @@ The workflow diagram illustrates how the nodes are connected to achieve the desi
 
 ----------------------------------------
 
+Built with ❤️ by Synaptiv AI
+
+----------------------------------------
+
 # Workflow 3: Monitoring Workflow Errors
 
 ## Overview
@@ -8177,6 +8203,10 @@ To ensure optimal usage of n8n Embed, refer to the embedded guidelines available
 
 ## Workflow Patterns
 No specific workflow patterns were detailed. Users are encouraged to explore the various workflow examples and integrate them according to their specific use cases.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
@@ -9012,6 +9042,10 @@ You must be an instance owner or admin to use external secrets in an RBAC projec
 ## Troubleshooting
 - Infisical version changes may affect connectivity. Report issues as needed.
 - Only set external secrets on credentials owned by instance owners or admins to ensure proper resolution in production.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
@@ -20033,6 +20067,10 @@ Refer to Custom API operations for more information.
 
 ----------------------------------------
 
+Built with ❤️ by Synaptiv AI
+
+----------------------------------------
+
 # QuickChart Node Documentation
 
 ## Description
@@ -30025,6 +30063,10 @@ Jina AI API keys start with 10 million free tokens for non-commercial use. To to
 1. Enter the Email address associated with your Jira account.
 2. Enter your Jira account Password.
 3. Enter the Domain you access Jira on.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
@@ -42106,6 +42148,10 @@ Your workflow ID can be found in:
 
 - The URL of the open workflow.
 - The workflow settings title.
+
+----------------------------------------
+
+Built with ❤️ by Synaptiv AI
 
 ----------------------------------------
 
