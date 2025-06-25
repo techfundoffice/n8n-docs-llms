@@ -122,7 +122,7 @@ This project exists because we believe in the power of community-driven knowledg
 
 <div align="center">
 
-**Ready to join the awesome n8n community?**
+**Ready to join the Awesome n8n community?**
 
 ⭐ **Star this repository** | 🍴 **Fork it** | 🐛 **Report issues** | 💡 **Submit workflows**
 
