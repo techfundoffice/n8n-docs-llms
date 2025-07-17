@@ -49,6 +49,13 @@ We're incredibly excited to present our foundational contribution to the n8n com
 
 You can find the `n8n-docs-llms.txt` file right here in the repository root. **Download it and start building amazing things!**
 
+##### 🔗 **GitMCP Integration:**
+
+This repository is compatible with GitMCP! We've added a symbolic link `llms.txt` that points to `n8n-docs-llms.txt`, making it easy to use this documentation with MCP-powered AI tools. Simply use:
+```
+https://gitmcp.io/techfundoffice/n8n-docs-llms
+```
+
 ---
 
 ## 🌟 **What's Next? Building the Best n8n Template Library, Together**
